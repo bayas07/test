@@ -1,7 +1,14 @@
 {
-    "student1": {
-      "name": "Bayas",
-      "age": 23
-    }
+  "student1": {
+    "name": "Bayas",
+    "age": 23
+  },
+  "student2": {
+    "name": "Riyas",
+    "age": 21
+  },
+  "student3": {
+    "name": "Mydeen",
+    "age": 20
   }
-  
+}
