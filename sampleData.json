@@ -1,7 +1,6 @@
 {
-    "student1": {
-      "name": "Bayas",
-      "age": 23
-    }
+  "student1": {
+    "name": "Bayas",
+    "age": 23
   }
-  
+}
