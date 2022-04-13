@@ -1,6 +1,10 @@
 {
   "student1": {
+<<<<<<< HEAD
     "name": "Ahamed",
+=======
+    "name": "Riyas",
+>>>>>>> 88625e0681a170e53c91a7f70e35f021fe5759e0
     "age": 23
   }
 }
