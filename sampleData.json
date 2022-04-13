@@ -1,22 +1,14 @@
 {
-  "m1": {
-    "description": "Finest fish and veggies",
-    "name": "Sushi",
-    "price": 22.99
+  "student1": {
+    "name": "Bayas",
+    "age": 23
   },
-  "m2": {
-    "description": "American, raw, meaty",
-    "name": "Barbecue Burger",
-    "price": 12.99
+  "student2": {
+    "name": "Riyas",
+    "age": 21
   },
-  "m3": {
-    "description": "A german specialty!",
-    "name": "Schnitzel",
-    "price": 16.55
-  },
-  "m4": {
-    "description": "Healthy...and green...",
-    "name": "Green Bowl",
-    "price": 18.99
+  "student3": {
+    "name": "Mydeen",
+    "age": 20
   }
 }
